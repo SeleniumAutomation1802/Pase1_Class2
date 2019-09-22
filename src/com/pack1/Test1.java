@@ -17,4 +17,9 @@ public class Test1
 	{
 		System.out.println("craeteFile");
 	}
+	
+	static void downloadFile()
+	{
+		System.out.println("downloadFile");
+	}
 }
