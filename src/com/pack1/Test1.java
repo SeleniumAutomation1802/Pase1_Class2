@@ -12,4 +12,9 @@ public class Test1
 	{
 		System.out.println("craeteFolder");
 	}
+	
+	static void craeteFile()
+	{
+		System.out.println("craeteFile");
+	}
 }
